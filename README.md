@@ -1,9 +1,10 @@
 # pthread-2PL-project
 
-using mutex to implement 2PL to add a file with 100 data of +-
+using mutex to implement 2PL to add a file with 100 datas
+notice that you can only run the file on `linux`
 
 pthread code example:
-==
+=================================
 #include <stdio.h><br>
 #include <pthread.h><br>
 #include <unistd.h><br>
