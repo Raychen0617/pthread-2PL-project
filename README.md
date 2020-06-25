@@ -64,7 +64,7 @@ int main() {<br>
   return 0;<br>
 }<br>
 
-the answer will be:<br>
+>the answer will be:<br>
 Counter = 1<br>
 Counter = 1<br>
 Counter = 2<br>
@@ -73,7 +73,7 @@ Counter = 3<br>
 Counter = 3<br>
 
 if we use mutex
-=
+--
 #include <stdio.h><br>
 #include <pthread.h><br>
 #include <unistd.h><br>
@@ -107,7 +107,7 @@ int main() {<br>
   return 0;<br>
 }<br>
 
-the answer will be:<br>
+>the answer will be:<br>
 Counter = 1<br>
 Counter = 2<br>
 Counter = 3<br>
