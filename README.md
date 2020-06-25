@@ -1,7 +1,6 @@
 # pthread-2PL-project
 
-using mutex to implement 2PL
-===
+using mutex to implement 2PL to add a file with 100 data of +-
 
 pthread code example:
 ==
@@ -162,4 +161,4 @@ int main(void) {<br>
   return 0;<br>
 }<br>
 
-[reference](https://blog.gtwang.org/programming/pthread-multithreading-programming-in-c-tutorial/)
+[reference and more info](https://blog.gtwang.org/programming/pthread-multithreading-programming-in-c-tutorial/)
